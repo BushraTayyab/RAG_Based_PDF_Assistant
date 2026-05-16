@@ -57,7 +57,7 @@ The **Document QA RAG System** allows you to upload documents (PDF, DOCX, TXT) a
 
 ### 🏗️ System Architecture
 
-![Architecture Diagram](screenshots/architecture.png)
+![Architecture Diagram](img.png)
 
 *Figure 1: Document QA RAG System Architecture*
 
