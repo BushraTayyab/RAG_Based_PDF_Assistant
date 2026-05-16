@@ -33,25 +33,32 @@ The **Document QA RAG System** allows you to upload documents (PDF, DOCX, TXT) a
 ## 📸 Screenshots
 
 ### 1. Upload Interface
-![Upload Interface](screenshots/upload.png)
+<img width="1193" height="552" alt="image" src="https://github.com/user-attachments/assets/4056eaee-d602-4ad0-b910-40fb90509408" />
+
 
 ### 2. Q&A Interface
-![Q&A Interface](screenshots/qa.png)
+<img width="1202" height="729" alt="image" src="https://github.com/user-attachments/assets/95203d06-1309-4bd0-9434-b5c38c6e46f4" />
+
 
 ### 3. Answer with Sources
-![Answer with Sources](screenshots/answer.png)
+<img width="1198" height="726" alt="image" src="https://github.com/user-attachments/assets/dd8b789d-33a4-4d61-a94e-beae5fad3183" />
+
 
 ### 4. Summary Generation
-![Summary Generation](screenshots/summary.png)
+<img width="1191" height="738" alt="image" src="https://github.com/user-attachments/assets/e9a9796b-7d17-432c-9ec8-1c9292fb58d8" />
+
 
 ### 5. Quiz Feature
-![Quiz Feature](screenshots/quiz.png)
+<img width="1195" height="819" alt="image" src="https://github.com/user-attachments/assets/d1c01e99-1e4c-44fa-9935-4b6470690a16" />
+
 
 ### 6. Document Management
-![Document Management](screenshots/documents.png)
+<img width="1196" height="448" alt="image" src="https://github.com/user-attachments/assets/38b3eda7-7969-4cc7-bbe5-d52078999d69" />
+
 
 ### 7. Quiz Results
-![Quiz Results](screenshots/quiz-results.png)
+<img width="1193" height="879" alt="image" src="https://github.com/user-attachments/assets/a016582f-614d-454d-8421-04c6b69f2006" />
+
 
 ---
 
