@@ -103,6 +103,10 @@ Start the Frontend (in a new terminal)
 cd frontend
 python -m http.server 3000
 
+Open Your Browser
+Go to: http://localhost:3000
+You should see the Document QA System interface
+
 📦 Installation Details
 Environment Configuration
 Create .env file in backend/ folder:
