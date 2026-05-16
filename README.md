@@ -99,6 +99,10 @@ pip install -r requirements.txt
 # Run backend
 python main.py
 
+Start the Frontend (in a new terminal)
+cd frontend
+python -m http.server 3000
+
 📦 Installation Details
 Environment Configuration
 Create .env file in backend/ folder:
